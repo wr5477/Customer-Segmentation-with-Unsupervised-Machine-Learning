@@ -124,8 +124,3 @@ After clustering, I profiled each group using behavior and demographic patterns:
 - **Presentation Deck (PDF):** a quick, high-level summary deck created using **Gamma** for fast communication of the project story in a professional format.
 
 <img width="923" height="518" alt="image" src="https://github.com/user-attachments/assets/82ced695-6c72-4abd-92ab-63c9b48dc79b" />
-
----
-
-## Reference
-This project was developed by referencing general ideas and approaches shared by [Lore So What](https://www.youtube.com/@loresowhat).
