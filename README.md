@@ -7,8 +7,9 @@ This project builds **data-driven customer segments** to help a retail business 
 
 **Cleaning → Feature Engineering → Preprocessing (Encoding & Scaling) → PCA → Clustering → Insights & Marketing Strategy (Slides)**
 
-<img width="449" height="459" alt="image" src="https://github.com/user-attachments/assets/49ed5c1c-47c5-48b9-b6f8-ad1634b08fcf" />
-
+<p align="center">
+ <img width="449" height="459" alt="image" src="https://github.com/user-attachments/assets/49ed5c1c-47c5-48b9-b6f8-ad1634b08fcf" />
+</p>
 **Goal:** Identify meaningful customer clusters and translate them into practical marketing actions.
 
 ---
@@ -48,9 +49,7 @@ Created additional features to better represent customer behavior and household 
 - Converted categorical variables into numeric form using **Label Encoding** (e.g., Education, Living_With).
 - Applied **feature scaling (StandardScaler)** to ensure fair feature weighting in distance-based learning.
 
-<p align="center">
   <img src="https://github.com/user-attachments/assets/9f16511e-981f-4f46-8653-543a6f59326d" width="700" alt="Encoding & Scaling preview" />
-</p>
 
 ---
 
@@ -123,6 +122,8 @@ After clustering, I profiled each group using behavior and demographic patterns:
 - **Jupyter Notebook:** full end-to-end workflow (cleaning → features → PCA → clustering → insights)
 - **Cluster Strategy Summary PDF:** customer profiles + recommended marketing actions
 - **Presentation Deck (PDF):** a quick, high-level summary deck created using **Gamma** for fast communication of the project story in a professional format.
+
+<img width="923" height="518" alt="image" src="https://github.com/user-attachments/assets/82ced695-6c72-4abd-92ab-63c9b48dc79b" />
 
 ---
 
