@@ -128,4 +128,5 @@ After clustering, I profiled each group using behavior and demographic patterns:
 ---
 
 ## Reference
-- YouTube: **Lore So What**
+This project was developed by referencing general ideas and approaches shared by  
+[Lore So What](https://www.youtube.com/@loresowhat).
