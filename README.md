@@ -10,7 +10,18 @@ This project builds **data-driven customer segments** to help a retail business 
 <p align="center">
  <img width="449" height="459" alt="image" src="https://github.com/user-attachments/assets/49ed5c1c-47c5-48b9-b6f8-ad1634b08fcf" />
 </p>
-**Goal:** Identify meaningful customer clusters and translate them into practical marketing actions.
+
+**Goal**: Identify meaningful customer clusters and translate them into practical marketing actions.
+
+## Data Source
+The dataset used in this project is sourced from Kaggle:
+
+- **Link:** https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign  
+
+This dataset contains detailed demographic, behavioral, and purchase information for retail customers,  
+and is commonly used for customer segmentation and marketing analytics tasks.
+
+The data was preprocessed, cleaned, and engineered before applying unsupervised machine learning techniques.
 
 ---
 
